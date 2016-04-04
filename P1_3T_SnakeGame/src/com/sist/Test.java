@@ -10,6 +10,7 @@ public class Test {
 		System.out.println("test5");
 		System.out.println("test6");
 		System.out.println("dongho");
+		System.out.println("ÁöÃÄ...");
 	}
 
 }
